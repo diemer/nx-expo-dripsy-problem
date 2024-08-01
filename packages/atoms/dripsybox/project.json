@@ -1,0 +1,9 @@
+{
+  "name": "dripsybox",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/atoms/dripsybox/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project dripsybox --web",
+  "targets": {}
+}
